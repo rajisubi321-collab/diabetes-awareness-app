@@ -1,0 +1,2 @@
+Model,Total_Records,Training_Records,Testing_Records,Training_Percentage,Testing_Percentage,Accuracy,Precision,Recall,F1_Score,ROC_AUC
+HistGradientBoosting,253680,202944,50736,80.0,20.0,0.8647705771050141,0.5573318632855567,0.1430188145423681,0.2276258020938872,0.8223614758414357
